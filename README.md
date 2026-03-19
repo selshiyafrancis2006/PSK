@@ -38,7 +38,7 @@ decoded = (demod[::bd] < 0).astype(int)
 
 # Plot
 plt.figure(figsize=(10,9))
-plt.suptitle("NAME : RAJANAYAGAM K\nREG NO : 212224060202",
+plt.suptitle("NAME : Selshiya F\nREG NO : 212224060241",
              fontsize=12, fontweight='bold')
 
 plt.subplot(4,1,1)
@@ -106,7 +106,7 @@ for i in range(len(symbols)):
 
 # Plot
 plt.figure(figsize=(10,8))
-plt.suptitle("NAME : RAJANAYAGAM K\nREG NO : 212224060202",
+plt.suptitle("NAME : Selshiya F\nREG NO : 212224060241",
              fontsize=12, fontweight='bold')
 
 plt.subplot(3,1,1)
@@ -132,12 +132,14 @@ plt.show()
 # Output Waveform
 
 # PSK
-<img width="978" height="887" alt="image" src="https://github.com/user-attachments/assets/bb892a95-6bba-47b6-8bc8-e855da087f11" />
+<img width="734" height="663" alt="image" src="https://github.com/user-attachments/assets/de7cc0b3-1a99-4734-a4b8-1afb68e8221f" />
+
 
 
 # QPSK
 
-<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/66f43187-4b30-43c1-b99f-b912b2bf6908" />
+<img width="993" height="788" alt="image" src="https://github.com/user-attachments/assets/285c6f61-7a53-4ab0-ae62-e4579045de5f" />
+
 
 # Results
 ```
